@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include <Python.h>
+=======
+nclude <Python.h>
+>>>>>>> 88bb34c055fc9ac0627085273404479cd3ca7af8
 #include <stdio.h>
 
 /**
